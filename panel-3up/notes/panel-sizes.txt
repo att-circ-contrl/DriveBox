@@ -1,0 +1,13 @@
+Front panel max dimensions for Hammond boxes:
+
+5.5" x (barely) 1.75"
+or
+6" x (barely) 1.375"
+
+...And there's not much clearance even on the non-"barely" dimensions.
+
+
+Panels from the SychBox:
+
+3.8" x 1.25" (back panel; space for the USB connector)
+5.3" x 1.25" (front panel)

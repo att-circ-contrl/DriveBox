@@ -1,0 +1,11 @@
+Item                                      Digikey p/n         Qty
+
+VGA connecter vert with screw lock        609-4031-ND           1
+rect conn fem 4pos latch and board lock   WM12790-ND            3
+toggle switch mom-off-mom spdt            EG4563-ND             3
+
+quad op-amp AD8618 soic                   AD8618ARZ-ND          3
+
+resistor 0805 22 kohm                     311-22.0KCRCT-ND     30
+
+header male 2x10 shr                      S9172-ND              1
